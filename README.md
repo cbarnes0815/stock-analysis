@@ -35,7 +35,10 @@ The **All Stock Analysis** was able to be executed by code refactoring. The init
                 End If
                 
                 
- The way a nested for loop fucntion is the computer will run through each "data row" once for each ticker catergory. Although nested for loops can run through any "data set" this can take the computer a longer time to complete especially if the data set is longer. Therefore creating an index and using an array will save time. By creating this the computer is now only have to go through each data row once. By sorting the data for the computer beforehand, the computer recognizes that is has checked for that specific identify and does not need to go through the rows and check again. Therefore it cuts down on the computer execution time.
+The way a nested for loop functions is the computer will run through each "data row" once for each ticker category. Although nested for loops can run through any "data set" this can take the computer a longer time to complete especially if the data set is longer. Therefore, creating an index and using an array will save time. By creating this the computer is now only have to go through each data row once. By sorting the data for the computer beforehand, the computer recognizes that is has checked for that specific identify and does not need to go through the rows and check again. Therefore, it cuts down on the computer execution time.
+
+ 
+ <img src="Resources\VBA_Challenge_2018.png" style="zoom: 80%;" /> 
  
  
  
