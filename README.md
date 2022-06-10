@@ -9,4 +9,3 @@ The purpose of this project is to refactor code to analyze stock data from all s
 The first portion of the Analysis provided will be comparing the performance between the stocks provided in 2017 and 2018.Below the data and visualization charts are displayed.
 
  
- 
